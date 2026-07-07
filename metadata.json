@@ -1,0 +1,6 @@
+{
+  "name": "FutIA",
+  "description": "A premium, AI-powered football platform providing real-time scores, match analytics, player statistics, transfer updates, and an interactive AI football assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
